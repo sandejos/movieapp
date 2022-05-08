@@ -1,0 +1,24 @@
+h2{
+  color:orange;
+  justify-content: center;
+  text-align: center;
+  padding-left: 10px;
+  border: 10px; 
+  border-color: gray;
+}
+
+p{
+  justify-content: center;
+  text-align: center;
+  padding-left: 10px;
+  
+}
+
+input[type="radio"]{
+  display: none;
+}
+
+.star{
+  cursor: pointer;
+  transition: color 200ms;
+}
